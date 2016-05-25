@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Hey There!
+
+I'm Jean and I study hard to play hard!
